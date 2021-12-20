@@ -1,0 +1,11 @@
+com\example\model\Product.class
+com\example\StudentController.class
+com\example\LoginController.class
+com\example\model\UserModel.class
+com\example\ProductController.class
+com\example\model\Student.class
+com\example\model\req\LoginPayload.class
+com\example\config\WebConfig.class
+com\example\UserController.class
+com\example\config\CORSFilter.class
+com\example\HomeController.class
